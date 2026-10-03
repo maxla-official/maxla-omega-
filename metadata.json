@@ -1,0 +1,6 @@
+{
+  "name": "Maxla",
+  "description": "Enterprise Executive Intelligence Platform for SEMICON India supply chain architecture, continuity protocols, tier-1 risk governance, and dual approval decision workflows.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
